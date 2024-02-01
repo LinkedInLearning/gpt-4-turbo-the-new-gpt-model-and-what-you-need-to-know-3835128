@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course GPT-4 Turbo: The new GPT
 
 
 ## Instructions
-[Google colab for Notebook]: https://colab.research.google.com/drive/1CvtDWTZ8YgJZS2uLFmuyf7cexTDmdeKe?usp=sharing
+- [Google-colab-notebook]: https://colab.research.google.com/drive/1CvtDWTZ8YgJZS2uLFmuyf7cexTDmdeKe?usp=sharing
 
 ## Installing
 1. You will need an OpenAI API key.
